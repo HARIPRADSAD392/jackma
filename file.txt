@@ -1,0 +1,4 @@
+day 1
+git basic concept
+git basic installation
+git repository creation
