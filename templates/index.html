@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body style="">
+    <h1 style="text-align: center;">WELCOME TO CHAKKA MANGA PREDICTOR</h1>
+    <img src="https://cdn.shopify.com/s/files/1/0059/8835/2052/products/Glenn_Mango_4_FGT_450x.jpg?v=1612444221"
+        height="300px" width="300px">
+    <img src="https://www.naturespride.eu/media/bgqlkosp/jackfruit-productfoto.jpg?anchor=center&mode=crop&width=560&height=560&format=webp&quality=75&rnd=132442803536200000"
+        height=300px width="=300px">
+
+    <h1 style="text-align: center;">UPLOAD IMAGE TO PREDICT THE FRUIT</h1>
+
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="img">
+        <input type="submit" value="submit">
+    </form>
+    {% if prediction %}
+    <h1 style="text-align: center;">THE GIVEN IMAGE IS OF {{prediction}}</h1>
+    {%endif%}
+</body>
+
+</html>
