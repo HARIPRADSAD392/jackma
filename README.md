@@ -2,7 +2,7 @@
 
 <h1><b>Tinkerhub project</b></h1>
 A Machine Learning program to identify Chakka and Manga<br>
-<p>BY TEAM <a href="#" target="_blank">304 NOT MODIFIED</a> | TEAM ID <a href="#" target="_blank">BFH/recI0eVaxAAxOPhp4/2021</a><br>
+<p>BY TEAM <a href="#" target="_blank">PSHYCO</a> | TEAM ID <a href="#" target="_blank">BFH/recI0eVaxAAxOPhp4/2021</a><br>
 TEAM MEMBERS: <a href="https://github.com/HARIPRADSAD392/jackma.git" target="_blank">HARI PRASAD S</a> | <a href="https://github.com/HARIPRADSAD392/jackma.git" target="_blank">ADITHYA A S</a> | <a href="https://github.com/HARIPRADSAD392/jackma.git" target="_blank">ALLEN SHABU</a></p><br>
 
 <h1><b>Thinkerhub project</b></h1>
