@@ -1,4 +1,4 @@
-# Chakka-Manga
+#JACKMA
 
 <h1><b>Tinkerhub project</b></h1>
 A Machine Learning program to identify Chakka and Manga<br>
